@@ -1,0 +1,37 @@
+video{
+    position:fixed;
+}
+
+div{
+    position:absolute;
+    top:15%;
+    left:35%;
+    min-width: 350px;
+    border: 2px solid white;
+    border-radius: 4px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
+
+input{
+    width:300px;
+    min-width: 100px;
+    padding:5px;
+    margin-bottom: 3px;
+}
+
+input:focus{
+    color:white;
+    background-color: brown;
+}
+button{
+    background-color:purple;
+    color: white;
+    font: 1em sans-serif;
+    
+}
+body{
+    margin:0%;
+    background-color: rgba(255, 255, 255, 0.548);
+}
+
